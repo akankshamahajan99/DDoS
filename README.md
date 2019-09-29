@@ -9,6 +9,6 @@ State of art:
 Scope: Local + Global
 Stateholders: Companies, Universities, wherever there is a server.
 
-3. Requirement gathering and SRS
+3. Requirement gathering and SRS:
  Log Analyzer
  Firewall
